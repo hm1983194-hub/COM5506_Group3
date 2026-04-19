@@ -1,0 +1,328 @@
+﻿Id,Label,gender,age,team（复仇者联盟、银河护卫队、神盾局）,team(正派 (Hero)、反派 (Villain)、中立 (Neutral) -主属性-只写英文）,race,first_appearance（剧中）,cleaned_year,era
+Black Panther / T'chal,Black Panther / T'chal,male,35,"Avengers, Wakandan Royal Guard, Illuminati",Hero,Black,1966,1966,Silver Age
+Loki [asgardian],Loki [asgardian],Male,1000,"Acts of Vengeance, Cabal, Young Avengers",Villain,White,1962,1962,Silver Age
+Mantis / ? Brandt,Mantis / ? Brandt,Female,30,"Avengers, Guardians of the Galaxy",Neutral,Asian,1974,1974,Bronze Age
+Iceman / Robert Bobby,Iceman / Robert Bobby,Male,25,"X-Men, Champions, Defenders",Hero,White,1963,1963,Silver Age
+Marvel Girl / Jean Grey,Marvel Girl / Jean Grey,Female,25,"X-Men, X-Factor, Phoenix Force",Hero,White,1963,1963,Silver Age
+Cyclops / Scott Summer,Cyclops / Scott Summer,Male,28,"X-Men, X-Factor, Phoenix Force",Hero,White,1963,1963,Silver Age
+Klaw / Ulysses Klaw,Klaw / Ulysses Klaw,Male,45,"Fearsome Four, Masters of Evil",Villain,Black,1966,1966,Silver Age
+Human Torch / Johnny S,Human Torch / Johnny S,Male,27,"Fantastic Four, Avengers, Future Foundation",Hero,White,1961,1961,before 1961
+"Richards, Franklin B","Richards, Franklin B",Male,10,"Fantastic Four, Future Foundation",Hero,White,1968,1968,Silver Age
+Wolverine / Logan,Wolverine / Logan,Male,120,"X-Men, Avengers, X-Force, Alpha Flight",Hero,White,1974,1974,Bronze Age
+Firebird / Bonita Juar,Firebird / Bonita Juar,Female,32,"Avengers, Rangers",Hero,Other,1981,1981,Bronze Age
+Mr. Fantastic / Reed R,Mr. Fantastic / Reed R,Male,45,"Fantastic Four, Illuminati, Future Foundation",Hero,White,1961,1961,before 1961
+Medusa / Medusalith Am,Medusa / Medusalith Am,Female,35,"Inhuman Royal Family, Frightful Four, Fantastic Four",Hero,White,1965,1965,Silver Age
+Dr. Strange / Stephen,Dr. Strange / Stephen,Male,40,"Defenders, Illuminati, Avengers",Hero,White,1963,1963,Silver Age
+Jack Of Hearts / Jack,Jack Of Hearts / Jack,Male,25,"Avengers, Defenders",Hero,White,1981,1981,Bronze Age
+Mephisto,Mephisto,Male,10000,,Villain,White,1968,1968,Silver Age
+Thanos,Thanos,Male,1000,"Infinity Watch, Black Order",Villain,Other,1973,1973,Bronze Age
+Swordsman / Jacques Du,Swordsman / Jacques Du,Male,40,"Avengers, Lethal Legion",Hero,White,1965,1965,Silver Age
+Collector / Taneleer T,Collector / Taneleer T,Male,1000,Elders of the Universe,Neutral,White,1966,1966,Silver Age
+Lockjaw [inhuman],Lockjaw [inhuman],Male,10,"Inhuman Royal Family, Pet Avengers",Hero,Other,1965,1965,Silver Age
+Sub-mariner / Namor Ma,Sub-mariner / Namor Ma,Male,90,"Invaders, Defenders, Illuminati, X-Men, Cabal",Neutral,Other,1939,1939,before 1961
+Pharaoh Rama-tut,Pharaoh Rama-tut,Male,3000,,Villain,White,1963,1963,Silver Age
+Ant-man Ii / Scott Har,Ant-man Ii / Scott Har,Male,30,"Avengers, Future Foundation, Guardians of the Galaxy",Hero,Other,1979,1979,Bronze Age
+Lyja Lazerfist [skru,Lyja Lazerfist [skru,Female,28,Fantastic Four,Neutral,Other,1991,1991,Modern Age
+Gorgon [inhuman],Gorgon [inhuman],Male,40,Inhuman Royal Family,Hero,White,1965,1965,Silver Age
+Nighthawk Ii / Kyle Ri,Nighthawk Ii / Kyle Ri,Male,35,"Squadron Supreme, Defenders",Hero,Black,1976,1976,Bronze Age
+"Cage, Luke / Carl Luca","Cage, Luke / Carl Luca",Male,35,"Avengers, Defenders, Heroes for Hire",Hero,White,1972,1972,Bronze Age
+Colossus Ii / Peter Ra,Colossus Ii / Peter Ra,Male,27,"X-Men, X-Force, Phoenix Force",Hero,White,1975,1975,Bronze Age
+Hellcat / Patsy Walker,Hellcat / Patsy Walker,Female,30,"Avengers, Defenders",Hero,Other,2012,2012,Modern Age
+Karnak [inhuman],Karnak [inhuman],Male,35,Inhuman Royal Family,Hero,White,1965,1965,Silver Age
+Death,Death,Female,10000,,Neutral,Other,1941,1941,before 1961
+Redwing,Redwing,Male,5,Avengers,Hero,Black,1969,1969,Silver Age
+Daredevil / Matt Murdo,Daredevil / Matt Murdo,Male,35,"Defenders, Marvel Knights, Avengers",Hero,White,1964,1964,Silver Age
+"Norriss, Sister Barb","Norriss, Sister Barb",Female,30,,Hero,White,1973,1973,Bronze Age
+Rage / Elvin Daryl Hal,Rage / Elvin Daryl Hal,Male,16,"Avengers, New Warriors",Hero,White,1991,1991,Modern Age
+Starfox / Eros,Starfox / Eros,Male,1000,"Avengers, Guardians of the Galaxy",Hero,Other,1983,1983,Bronze Age
+Demolition Man / Denni,Demolition Man / Denni,Male,35,"Avengers, Unlimited Class Wrestling Federation",Hero,White,1987,1987,Modern Age
+Sersi / Sylvia,Sersi / Sylvia,Female,5000,"Avengers, Eternals",Hero,White,1989,1989,Modern Age
+Spider-man / Peter Parker,Spider-man / Peter Parker,Male,28,"Avengers, Fantastic Four, Future Foundation, New Warriors",Hero,White,1962,1962,Silver Age
+Vision,Vision,Male,5,"Avengers, West Coast Avengers, Illuminati",Hero,White,1968,1968,Silver Age
+Uatu,Uatu,Male,10000,Watchers,Neutral,Other,1963,1963,Silver Age
+Binary / Carol Danvers,Binary / Carol Danvers,Female,35,"Avengers, X-Men, Guardians of the Galaxy",Hero,White,1979,1979,Bronze Age
+"Gyrich, Henry Peter","Gyrich, Henry Peter",Male,50,,Neutral,White,1977,1977,Bronze Age
+Nightcrawler / Kurt Wa,Nightcrawler / Kurt Wa,Male,25,"X-Men, Excalibur",Hero,Black,1975,1975,Bronze Age
+Angel / Warren Kenneth,Angel / Warren Kenneth,Male,28,"X-Men, X-Factor, Champions, Defenders",Hero,White,1963,1963,Silver Age
+Silver Surfer / Norrin,Silver Surfer / Norrin,Male,35,"Defenders, Guardians of the Galaxy, Annihilators",Neutral,White,1966,1966,Silver Age
+She-hulk / Jennifer Wa,She-hulk / Jennifer Wa,Female,32,"Avengers, Fantastic Four, Future Foundation",Hero,White,1980,1980,Bronze Age
+Ghaur [deviant],Ghaur [deviant],Male,500,,Villain,White,1985,1985,Bronze Age
+Dr. Doom / Victor Von,Dr. Doom / Victor Von,Male,45,"Fantastic Four, Cabal, Infamous Iron Man",Villain,White,1962,1962,Silver Age
+Storm / Ororo Munroe S,Storm / Ororo Munroe S,Female,30,"X-Men, Avengers, Fantastic Four",Hero,Other,1975,1975,Bronze Age
+Scarlet Witch / Wanda,Scarlet Witch / Wanda,Female,35,"Avengers, Brotherhood of Evil Mutants, West Coast Avengers",Hero,White,1964,1964,Silver Age
+Toad / Mortimer Toynbe,Toad / Mortimer Toynbe,Male,35,"Brotherhood of Evil Mutants, X-Factor",Villain,White,1964,1964,Silver Age
+Hulk / Dr. Robert Bruce Banner,Hulk / Dr. Robert Bruce Banner,Male,40,"Avengers, Defenders, Illuminati",Hero,White,1962,1962,Silver Age
+Firestar / Angelica Jo,Firestar / Angelica Jo,Female,25,"X-Men, New Warriors, Avengers",Hero,Asian,1985,1985,Bronze Age
+Wonder Man / Simon Wil,Wonder Man / Simon Wil,Male,35,"Avengers, West Coast Avengers, Revengers",Hero,Other,1964,1964,Silver Age
+Drax / Arthur Douglas,Drax / Arthur Douglas,Male,35,"Guardians of the Galaxy, Infinity Watch",Hero,Other,1973,1973,Bronze Age
+"Dugan, Timothy Aloyi","Dugan, Timothy Aloyi",Male,65,"Howling Commandos, S.H.I.E.L.D.",Hero,White,1963,1963,Silver Age
+"Carter, Sharon","Carter, Sharon",Female,35,S.H.I.E.L.D.,Hero,White,1966,1966,Silver Age
+Black Knight V / Dane,Black Knight V / Dane,Male,35,"Avengers, MI-13, Heroes for Hire",Hero,White,1967,1967,Silver Age
+Sunfire / Shiro Yoshid,Sunfire / Shiro Yoshid,Male,30,"X-Men, Avengers, Big Hero 6",Hero,White,1970,1970,Silver Age
+Triton,Triton,Male,35,Inhuman Royal Family,Hero,White,1965,1965,Silver Age
+Ultron,Ultron,Male,10,"Masters of Evil, Phalanx",Villain,White,1968,1968,Silver Age
+"Jones, Richard Milho","Jones, Richard Milho",Male,30,,Hero,White,1962,1962,Silver Age
+Iron Man / Tony Stark,Iron Man / Tony Stark,Male,45,"Avengers, Illuminati, Guardians of the Galaxy",Hero,White,1963,1963,Silver Age
+"Nelson, Franklin Fog","Nelson, Franklin Fog",Male,50,,Hero,White,1964,1964,Silver Age
+Captain America,Captain America,Male,35,"Avengers, Invaders, Illuminati",Hero,White,1941,1941,before 1961
+"Jarvis, Edwin","Jarvis, Edwin",Male,65,Avengers,Hero,White,1964,1964,Silver Age
+Quasar Iii / Wendell V,Quasar Iii / Wendell V,Male,30,"Avengers, Guardians of the Galaxy, Annihilators",Neutral,White,1978,1978,Bronze Age
+"Jameson, J. Jonah","Jameson, J. Jonah",Male,55,,Neutral,Other,1963,1963,Silver Age
+"Masters, Alicia Reis","Masters, Alicia Reis",Female,30,Fantastic Four,Villain,White,1962,1962,Silver Age
+Magneto / Magnus / Eric,Magneto / Magnus / Eric,Male,60,"X-Men, Brotherhood of Evil Mutants",Hero,White,1963,1963,Silver Age
+Invisible Woman / Sue,Invisible Woman / Sue,Female,35,"Fantastic Four, Future Foundation, Avengers",Hero,Black,1961,1961,before 1961
+Professor X / Charles,Professor X / Charles,Male,60,"X-Men, Illuminati",Hero,White,1963,1963,Silver Age
+Iron Fist / Daniel Ran,Iron Fist / Daniel Ran,Male,30,"Defenders, Heroes for Hire, Avengers",Hero,Black,1974,1974,Bronze Age
+Black Bolt / Blackanto,Black Bolt / Blackanto,Male,40,"Inhuman Royal Family, Illuminati",Hero,White,1965,1965,Silver Age
+Hawk,Hawk,Male,35,"Avengers, Thunderbolts",Hero,White,1974,1974,Bronze Age
+Sandman / William Bake,Sandman / William Bake,Male,35,"Frightful Four, Sinister Six, Avengers",Villain,White,1963,1963,Silver Age
+Falcon / Sam Wilson,Falcon / Sam Wilson,Male,40,"Avengers, S.H.I.E.L.D.",Hero,White,1969,1969,Silver Age
+Stingray / Dr. Walter,Stingray / Dr. Walter,Male,40,"Avengers, Defenders",Hero,White,1969,1969,Silver Age
+Justice Ii / Vance Ast,Justice Ii / Vance Ast,Male,25,"New Warriors, Avengers",Hero,White,1975,1975,Bronze Age
+Hercules [greek God],Hercules [greek God],Male,3000,"Avengers, Champions, Gods of Olympus",Hero,White,1964,1964,Silver Age
+Usagent / Captain John,Usagent / Captain John,Male,20s,"Avengers, West Coast Avengers, Force Works, Commission on Superhuman Activities, Omega Flight, Thunderbolts, S.H.I.E.L.D.",Hero,White,1986,1986,Modern Age
+Captain Marvel Ii / Mo,Captain Marvel Ii / Mo,Female,20s,"Avengers, Nextwave, Ultimates, S.H.I.E.L.D.",Hero,Black,1982,1982,Bronze Age
+Crystal [inhuman],Crystal [inhuman],Female,teens,"Inhumans, Fantastic Four, Avengers, Galactic Council, Universal Inhumans, Knights of the Infinite",Hero,Other,1965,1965,Silver Age
+Tigra / Greer Nelson,Tigra / Greer Nelson,Female,20s,"Avengers, West Coast Avengers, Avengers Academy, Lady Liberators, New Warriors, Midnight Mission, S.H.I.E.L.D.",Hero,White,1972,1972,Bronze Age
+Spider-woman Ii / Juli,Spider-woman Ii / Juli,Female,20s,"Avengers, West Coast Avengers, Omega Flight, Commission on Superhuman Activities, Force Works",Hero,White,1984,1984,Bronze Age
+Machine Man / X-51,Machine Man / X-51,Male,N/A (Robot),"Avengers, S.H.I.E.L.D., Nextwave, Mercs for Money",Hero,Other,1977,1977,Bronze Age
+Mockingbird / Dr. Barb,Mockingbird / Dr. Barb,Female,20s,"S.H.I.E.L.D., Avengers, West Coast Avengers, New Avengers, Secret Avengers",Hero,White,1971,1971,Bronze Age
+Captain Marvel / Capta,Captain Marvel / Capta,Male,30s,"Avengers, Kree Empire, Starforce",Hero,Other,1967,1967,Silver Age
+Wasp / Janet Van Dyne,Wasp / Janet Van Dyne,Female,20s,"Avengers, Lady Liberators, Initiative, Secret Avengers, Mighty Avengers, New Avengers",Hero,White,1963,1963,Silver Age
+"Fury, Col. Nicholas","Fury, Col. Nicholas",Male,30s,"S.H.I.E.L.D., Avengers, Howling Commandos, United States Army",Hero,White,1963,1963,Silver Age
+Thor / Dr. Donald Blak,Thor / Dr. Donald Blak,Male,Unknown (Asgardian),"Avengers, Guardians of the Galaxy, Revengers, Asgardians, God Squad",Hero,Other,1962,1962,Silver Age
+Quicksilver / Pietro M,Quicksilver / Pietro M,Male,teens,"Brotherhood of Evil Mutants, Avengers, X-Factor, Inhumans, Mighty Avengers, Knights of Wundagore",Villain,White,1964,1964,Silver Age
+Captain Britain / Bria,Captain Britain / Bria,Male,20s,"Excalibur, Captain Britain Corps, Avengers, MI-13, New Excalibur",Hero,White,1976,1976,Bronze Age
+Shadowcat / Katherine,Shadowcat / Katherine,Female,13,"X-Men, Excalibur, S.H.I.E.L.D., Jean Grey School, Guardians of the Galaxy, New Mutants",Hero,White,1980,1980,Bronze Age
+Black Widow / Natasha,Black Widow / Natasha,Female,Unknown (enhanced),"Avengers, S.H.I.E.L.D., KGB, Red Room, Stark Industries, Champions, Thunderbolts",Villain,White,1964,1964,Silver Age
+Ant-man / Dr. Henry J.,Ant-man / Dr. Henry J.,Male,30s,"Avengers, West Coast Avengers, Mighty Avengers, S.H.I.E.L.D., Defenders",Hero,White,1962,1962,Silver Age
+Moon Knight / Marc Spe,Moon Knight / Marc Spe,Male,30s,"Avengers, Midnight Sons, West Coast Avengers, Secret Avengers",Hero,White,1975,1975,Bronze Age
+Jocasta,Jocasta,Female,N/A (Android),"Avengers, Mighty Avengers, Avengers Academy, Mavericks",Villain,Other,1977,1977,Bronze Age
+Moondragon / Heather D,Moondragon / Heather D,Female,20s,"Guardians of the Galaxy, Avengers, Defenders, Infinity Watch",Hero,White,1973,1973,Bronze Age
+Thing / Benjamin J. Gr,Thing / Benjamin J. Gr,Male,30s,"Fantastic Four, Avengers, Guardians of the Galaxy, Heroes for Hire, S.H.I.E.L.D.",Hero,White,1961,1961,before 1961
+Beast / Henry &hank& P,Beast / Henry &hank& P,Male,teens,"X-Men, Avengers, Defenders, X-Factor, Illuminati, Secret Avengers, Jean Grey School",Hero,White,1963,1963,Silver Age
+Nova / Richard Rider,Nova / Richard Rider,Male,17,"Nova Corps, Avengers, Champions, New Warriors, Guardians of the Galaxy",Hero,White,1976,1976,Bronze Age
+Wrecker Iii / Dirk Gar,Wrecker Iii / Dirk Gar,Male,30s,"Wrecking Crew, Masters of Evil, Thunderbolts",Villain,White,1968,1968,Silver Age
+Warlock Ii / Adam Warl,Warlock Ii / Adam Warl,Male,N/A (Artificial),"Guardians of the Galaxy, Infinity Watch, Annihilators, Avengers",Hero,Other,1967,1967,Silver Age
+Piledriver Ii / Brian,Piledriver Ii / Brian,Male,30s,"Wrecking Crew, Masters of Evil, Thunderbolts",Villain,White,1974,1974,Bronze Age
+Thunderball / Dr. Elio,Thunderball / Dr. Elio,Male,30s,"Wrecking Crew, Frightful Four, Masters of Evil, Secret Empire, Illuminati, Lethal Legion",Villain,Black,1974,1974,Bronze Age
+Dr. Octopus / Otto Oct,Dr. Octopus / Otto Oct,Male,30s,"Sinister Six, Masters of Evil, Thunderbolts, Avengers, Mighty Avengers, Parker Industries, Horizon Labs, Spiderlings, Superior Six, Spider-Army / Web-Warriors, Legion Accursed",Villain,White,1963,1963,Silver Age
+"Banner, Betty Ross T","Banner, Betty Ross T",Female,20s,"Hulk supporting cast, Hulkbusters",Neutral,White,1962,1962,Silver Age
+Avalanche / Dominic Pe,Avalanche / Dominic Pe,Male,20s,"Brotherhood of Evil Mutants, X-Corps, Freedom Force, Project Wide Awake",Villain,White,1981,1981,Bronze Age
+Attuma,Attuma,Male,Unknown,"Atlanteans, Lethal Legion, Deep Six, The Worthy, Cabal, Talokan",Villain,Other,1964,1964,Silver Age
+Hela [asgardian],Hela [asgardian],Female,Unknown (Asgardian),"Asgardians, Cabal, Fear Lords",Villain,Other,1964,1964,Silver Age
+Doc Samson / Dr. Leona,Doc Samson / Dr. Leona,Male,30s,"S.H.I.E.L.D., Agents of S.M.A.S.H., Gamma Flight",Hero,White,1971,1971,Bronze Age
+Guardian / James Macdo,Guardian / James Macdo,Male,30s,"Alpha Flight, Beta Flight, Department H",Hero,White,1979,1979,Bronze Age
+Northstar / Jean-paul,Northstar / Jean-paul,Male,20s,"Alpha Flight, X-Men, Jean Grey School",Hero,White,1979,1979,Bronze Age
+Dr. Druid / Anthony Lu,Dr. Druid / Anthony Lu,Male,40s,"Avengers, Monster Hunters, Defenders, Secret Defenders, Legion of the Unliving, A.I.M., Bureau 18, Shock Troop",Hero,White,1961,1961,before 1961
+"Watson-parker, Mary","Watson-parker, Mary",Female,teens,Spider-Man supporting cast,Neutral,White,1965,1965,Silver Age
+Mystique / Raven Darkh,Mystique / Raven Darkh,Female,Unknown (Shapeshifter),"Brotherhood of Mutants, Freedom Force, X-Men, Mystique's Brotherhood, Sisterhood of Mutants",Villain,Other,1978,1978,Bronze Age
+Pyro / Allerdyce Johnn,Pyro / Allerdyce Johnn,Male,20s,"Brotherhood of Mutants, Freedom Force, Lethal Legion, Marauders, X-Men",Villain,White,1981,1981,Bronze Age
+Destiny Ii / Irene Adl,Destiny Ii / Irene Adl,Female,60s,"Brotherhood of Mutants, Freedom Force",Villain,White,1981,1981,Bronze Age
+Mister Hyde / Calvin Z,Mister Hyde / Calvin Z,Male,40s,"Masters of Evil, Lethal Legion, Thunderbolts, Army of Evil, Hood's Gang",Villain,White,1964,1964,Silver Age
+Ghost Rider Ii / Johnn,Ghost Rider Ii / Johnn,Male,20s,"Spirits of Vengeance, Avengers, Midnight Sons, Champions",Hero,White,1972,1972,Bronze Age
+Mole Man / Harvey Rupe,Mole Man / Harvey Rupe,Male,40s,"Subterranea, Outcasts, Lethal Legion",Villain,White,1961,1961,before 1961
+Firelord / Pyreus Kril,Firelord / Pyreus Kril,Male,Unknown,"Heralds of Galactus, Avengers, Nova Corps",Hero,Other,1974,1974,Bronze Age
+Leader / Sam Sterns,Leader / Sam Sterns,Male,30s,"Intelligencia, Hulk villains",Villain,White,1964,1964,Silver Age
+"Le Fey, Morgan","Le Fey, Morgan",Female,Unknown (Sorceress),"Darkhold Covenant, Camelot Court, Doom's Cabal",Villain,White,1979,1979,Bronze Age
+Bulldozer / Henry Camp,Bulldozer / Henry Camp,Male,30s,"Wrecking Crew, Masters of Evil, Thunderbolts",Villain,White,1974,1974,Bronze Age
+Forgotten One / Gilgam,Forgotten One / Gilgam,Male,Unknown (Eternal),"Eternals, Avengers",Hero,Other,1976,1976,Bronze Age
+Balder [asgardian],Balder [asgardian],Male,Unknown (Asgardian),Asgardians,Hero,Other,1962,1962,Silver Age
+Hogun [asgardian],Hogun [asgardian],Male,Unknown (Asgardian),"Asgardians, Warriors Three",Hero,Other,1965,1965,Silver Age
+Hellstorm / Daimon Hel,Hellstorm / Daimon Hel,Male,20s,"Midnight Sons, Defenders, Secret Defenders, Thunderbolts, Avengers Academy",Hero,White,1973,1973,Bronze Age
+Aurora / Jeanne-marie,Aurora / Jeanne-marie,Female,20s,"Alpha Flight, Beta Flight, Weapon X",Hero,White,1979,1979,Bronze Age
+"O'brien, Michael","O'brien, Michael",Male,30s,"S.H.I.E.L.D., Stark Industries security",Hero,White,1978,1978,Bronze Age
+"Stankowicz, Fabian","Stankowicz, Fabian",Male,20s,S.H.I.E.L.D.,Neutral,White,1982,1982,Bronze Age
+Screaming Mimi / Melis,Screaming Mimi / Melis,Female,20s,"Thunderbolts, Masters of Evil, Grapplers, Femizons",Villain,White,1979,1979,Bronze Age
+Moonstone Ii / Karla S,Moonstone Ii / Karla S,Female,20s,"Thunderbolts, Dark Avengers, Masters of Evil, Hood's Gang, Illuminati",Villain,White,1978,1978,Bronze Age
+Fixer Ii / Paul Norber,Fixer Ii / Paul Norber,Male,30s,"Masters of Evil, Thunderbolts, Crimson Cowl's Masters of Evil, A.I.M.",Villain,White,1966,1966,Silver Age
+Darkstar / Laynia Serg,Darkstar / Laynia Serg,Female,20s,"Soviet Super-Soldiers, Winter Guard, Champions, X-Corporation",Hero,White,1975,1975,Bronze Age
+Vanguard / Nicolai Kry,Vanguard / Nicolai Kry,Male,20s,"Soviet Super-Soldiers, Winter Guard, Protectorate, Siberforce, Neo-Soviets",Hero,White,1978,1978,Bronze Age
+Gamora,Gamora,Female,Unknown (alien),"Guardians of the Galaxy, Infinity Watch, Phalanx, Graces",Hero,Other,1975,1975,Bronze Age
+Psylocke / Elisabeth B,Psylocke / Elisabeth B,Female,20s,"X-Men, Excalibur, X-Force, S.T.R.I.K.E., Hand, Exiles, Fallen Angels",Hero,White,1976,1976,Bronze Age
+Rogue  / ,Rogue  / ,Female,teens,"Brotherhood of Mutants, X-Men, Avengers, X-Treme X-Men",Villain,White,1981,1981,Bronze Age
+Sasquatch / Walter Lan,Sasquatch / Walter Lan,Male,30s,"Alpha Flight, Beta Flight, Gamma Flight, Weapon X, Avengers",Hero,White,1979,1979,Bronze Age
+Luna / Luna Maximoff [,Luna / Luna Maximoff [,Female,infant,Inhuman Royal Family,Neutral,White,1988,1988,Modern Age
+Whizzer Ii / Stanley S,Whizzer Ii / Stanley S,Male,30s,Squadron Supreme,Hero,White,1971,1971,Bronze Age
+Dr. Spectrum / Joseph,Dr. Spectrum / Joseph,Male,30s,Squadron Supreme,Hero,White,1971,1971,Bronze Age
+Kingpin / Wilson Fisk,Kingpin / Wilson Fisk,Male,30s,"Kingpin's crime organization, HYDRA",Villain,White,1967,1967,Silver Age
+Clea,Clea,Female,Unknown (Mystic),"Defenders, Illuminati, Midnight Sons",Hero,Other,1964,1964,Silver Age
+Polaris / Lorna Dane,Polaris / Lorna Dane,Female,teens,"X-Men, X-Factor, Horsemen of Apocalypse, Starjammers, Acolytes, Marauders",Hero,White,1968,1968,Silver Age
+"De La Fontaine, Cont","De La Fontaine, Cont",Female,30s,"S.H.I.E.L.D., HYDRA, Leviathan, Femme Force, CIA, Thunderbolts",Hero,White,1967,1967,Silver Age
+Heimdall [asgardian],Heimdall [asgardian],Male,Unknown (Asgardian),Asgardians,Hero,Other,1962,1962,Silver Age
+Red Skull / Johann Sch,Red Skull / Johann Sch,Male,20s,"HYDRA, Schutzstaffel, Axis, Skeleton Crew, Cabal",Villain,White,1941,1941,before 1961
+"Thompson, Eugene Fla","Thompson, Eugene Fla",Male,teens,"Spider-Man supporting cast, Venom Symbiote, Secret Avengers, Thunderbolts, Guardians of the Galaxy",Neutral,White,1962,1962,Silver Age
+Wong,Wong,Male,20s,"Masters of the Mystic Arts, Avengers",Hero,Asian,1963,1963,Silver Age
+"Parker, May","Parker, May",Female,50s,Spider-Man supporting cast,Neutral,White,1962,1962,Silver Age
+Green Goblin / Norman,Green Goblin / Norman,Male,40s,"Sinister Six, Dark Avengers, Oscorp, Cabal, Thunderbolts, HYDRA",Villain,White,1964,1964,Silver Age
+Night Thrasher / Duane,Night Thrasher / Duane,Male,teens,"New Warriors, Night Thrasher's New Warriors",Hero,Black,1989,1989,Modern Age
+Eternity / Adam Qadmon,Eternity / Adam Qadmon,Male,Unknown (Cosmic),Cosmic entities,Neutral,Other,1965,1965,Silver Age
+Galactus / Galan,Galactus / Galan,Male,Unknown (Cosmic),"Heralds of Galactus, God Squad, Ultimates",Neutral,Other,1966,1966,Silver Age
+Triathlon / Delroy Gar,Triathlon / Delroy Gar,Male,20s,"Avengers, Initiative, Secret Defenders, 3-D Man",Hero,Black,1998,1998,Modern Age
+Beetle / Abner Ronald,Beetle / Abner Ronald,Male,20s,"Sinister Syndicate, Thunderbolts, Mach-1",Villain,White,1964,1964,Silver Age
+Lilandra Neramani [s,Lilandra Neramani [s,Female,Unknown (Alien),"Shi'ar Empire, X-Men allies",Hero,Other,1976,1976,Bronze Age
+Odin [asgardian],Odin [asgardian],Male,Unknown (Asgardian),Asgardians,Hero,Other,1962,1962,Silver Age
+"Hogan, Virginia Pepp","Hogan, Virginia Pepp",Female,40s,Avengers; Stark Industries,Hero,White,Unknown,unknown,Unknown Age
+Mad Dog / Colonel Buzz,Mad Dog / Colonel Buzz,Male,Not in MCU,Unknown,Neutral,Unknown,Unknown,unknown,Unknown Age
+"Kincaid, Dr. Jane Fo","Kincaid, Dr. Jane Fo",Female,30s,Avengers; Thor supporting cast,Hero,White,Unknown,unknown,Unknown Age
+Wizard / Bentley Wittm,Wizard / Bentley Wittm,Male,45s,Frightful Four; Masters of Evil,Villain,White,1960s,1965,Silver Age
+Charcoal / Charlie Bur,Charcoal / Charlie Bur,Male,16s,Thunderbolts,Hero,Unknown,1990s,1995,Modern Age
+Blob / Fred J. Dukes,Blob / Fred J. Dukes,Male,35s,Brotherhood of Evil Mutants,Villain,White,1960s,1965,Silver Age
+Cloak / Tyrone Johnson,Cloak / Tyrone Johnson,Male,18s,,Hero,Black,1980s,1985,Bronze Age
+Thunderstrike / Eric K,Thunderstrike / Eric K,Male,35s,Avengers,Hero,White,1990s,1995,Modern Age
+Power Man / Erik Joste,Power Man / Erik Joste,Male,40s,Masters of Evil,Villain,White,1970s,1975,Bronze Age
+Human Torch Android / ,Human Torch Android / ,Male,80+,Invaders; All-Winners Squad,Hero,White,1930s,1935,before 1961
+Juggernaut / Cain Mark,Juggernaut / Cain Mark,Male,45s,,Villain,White,1960s,1965,Silver Age
+Absorbing Man / Carl C,Absorbing Man / Carl C,Male,45s,Masters of Evil,Villain,White,1960s,1965,Silver Age
+Volstagg,Volstagg,Male,Unknown,Asgardian Royal Family; Warriors Three,Hero,White,Ancient times,unknown,Unknown Age
+Shaman / Michael Twoyo,Shaman / Michael Twoyo,Male,40s,Alpha Flight,Hero,Unknown,1970s,1975,Bronze Age
+Snowbird / Narya / Anne,Snowbird / Narya / Anne,Female,Unknown,Alpha Flight,Hero,Unknown,1970s,1975,Bronze Age
+Dagger / Tandy Bowen,Dagger / Tandy Bowen,Female,18s,,Hero,White,1980s,1985,Bronze Age
+Phoenix Iii / Rachel S,Phoenix Iii / Rachel S,Female,25s,X-Men,Hero,White,1980s,1985,Bronze Age
+Mandarin,Mandarin,Male,50s,Ten Rings,Villain,Asian,1960s,1965,Silver Age
+Fandral [asgardian],Fandral [asgardian],Male,Unknown,Asgardian Royal Family; Warriors Three,Hero,White,Ancient times,unknown,Unknown Age
+Ms. Marvel Ii / Sharon,Ms. Marvel Ii / Sharon,Female,30s,Avengers,Hero,White,1970s,1975,Bronze Age
+Pip / Prince Gofern,Pip / Prince Gofern,Male,Unknown,Guardians of the Galaxy,Neutral,Unknown,1970s,1975,Bronze Age
+Enchantress / Amora / He,Enchantress / Amora / He,Female,Unknown,Masters of Evil,Villain,White,Ancient times,unknown,Unknown Age
+"Jameson, Col. John","Jameson, Col. John",Male,35s,,Neutral,White,1960s,1965,Silver Age
+"Cooper, Dr. Valerie","Cooper, Dr. Valerie",Female,40s,SHIELD,Neutral,White,1970s,1975,Bronze Age
+Nova Ii / Frankie Raye,Nova Ii / Frankie Raye,Female,Unknown,Heralds of Galactus,Hero,White,1970s,1975,Bronze Age
+Darkhawk / Chris Powel,Darkhawk / Chris Powel,Male,25s,,Hero,White,1990s,1995,Modern Age
+Nomad Iii / Jack Monro,Nomad Iii / Jack Monro,Male,60+,,Hero,White,1970s,1975,Bronze Age
+"Robertson, Joe","Robertson, Joe",Male,50s,Spider-Man supporting cast,Neutral,Black,1960s,1965,Silver Age
+Gargoyle Ii / Isaac Ch,Gargoyle Ii / Isaac Ch,Male,60+,Defenders,Hero,White,1980s,1985,Bronze Age
+Namorita / Nita Prenti,Namorita / Nita Prenti,Female,25s,New Warriors,Hero,White,1970s,1975,Bronze Age
+Iron Man Iv / James R.,Iron Man Iv / James R.,Male,40s,Avengers,Hero,Black,1970s,1975,Bronze Age
+"Ross, Gen. Thaddeus","Ross, Gen. Thaddeus",Male,60s,Hulkbusters,Neutral,White,1940s,1945,before 1961
+"Harkness, Agatha","Harkness, Agatha",Female,300+,Darkhold Covenant,Villain,White,Ancient times,unknown,Unknown Age
+"Carter, Peggy","Carter, Peggy",Female,95,SHIELD; SSR,Hero,White,1940s,1945,before 1961
+Hyperion,Hyperion,Male,Unknown,Squadron Supreme,Neutral,White,1970s,1975,Bronze Age
+Living Lightning / Mig,Living Lightning / Mig,Male,30s,Avengers,Hero,Latina,1990s,1995,Modern Age
+"Jones, Gabe","Jones, Gabe",Male,95,SHIELD; Howling Commandos; SSR,Hero,Black,1940s,1945,before 1961
+"Osborn, Liz Allan","Osborn, Liz Allan",Female,30s,Spider-Man supporting cast,Neutral,White,1960s,1965,Silver Age
+"Leeds, Betty Brant","Leeds, Betty Brant",Female,30s,Spider-Man supporting cast,Neutral,White,1960s,1965,Silver Age
+Sif,Sif,Female,Unknown,Asgardian Royal Family; Warriors Three,Hero,White,Ancient times,unknown,Unknown Age
+Dazzler Ii / Allison B,Dazzler Ii / Allison B,Female,30s,,Hero,White,1980s,1985,Bronze Age
+Molecule Man / Owen Re,Molecule Man / Owen Re,Male,40s,,Villain,White,1960s,1965,Silver Age
+Speedball / Robbie Bal,Speedball / Robbie Bal,Male,25s,New Warriors,Hero,White,1980s,1985,Bronze Age
+Lizard / Dr. Curtis Co,Lizard / Dr. Curtis Co,Male,45s,Sinister Six,Villain,White,1960s,1965,Silver Age
+Volcana / Marsha Rosen,Volcana / Marsha Rosen,Female,30s,,Neutral,White,1980s,1985,Bronze Age
+Lockheed,Lockheed,Male,Unknown,X-Men,Hero,Unknown,1980s,1985,Bronze Age
+Titania Ii / Mary Skee,Titania Ii / Mary Skee,Female,30s,Masters of Evil,Villain,White,1980s,1985,Bronze Age
+Boomer / Tabitha Smith,Boomer / Tabitha Smith,Female,25s,New Mutants; X-Force,Hero,White,1980s,1985,Bronze Age
+"Summers, Nathan Chri","Summers, Nathan Chri",Male,35s,X-Men,Hero,White,1980s,1985,Bronze Age
+"Summers, Madelyne Ma","Summers, Madelyne Ma",Female,30s,X-Men,Villain,White,1980s,1985,Bronze Age
+"Mactaggert, Moira Ki","Mactaggert, Moira Ki",Female,40s,X-Men,Hero,White,1970s,1975,Bronze Age
+Cannonball Ii / Sam Gu,Cannonball Ii / Sam Gu,Male,25s,New Mutants; X-Force,Hero,White,1980s,1985,Bronze Age
+"Tilby, Trish / Patrici","Tilby, Trish / Patrici",Female,30s,X-Men supporting cast,Neutral,White,1980s,1985,Bronze Age
+Skids / Sally Blevins,Skids / Sally Blevins,Female,25s,X-Men,Hero,White,1980s,1985,Bronze Age
+Wolfsbane / Rahne Sinc,Wolfsbane / Rahne Sinc,Female,25s,New Mutants; X-Force,Hero,White,1980s,1985,Bronze Age
+Leech,Leech,Male,18s,Morlocks,Hero,Unknown,1980s,1985,Bronze Age
+Mirage Ii / Danielle M,Mirage Ii / Danielle M,Female,25s,New Mutants,Hero,Native America,1980s,1985,Bronze Age
+Gambit / Remy Lebeau,Gambit / Remy Lebeau,Male,30s,X-Men,Hero,White,1990s,1995,Modern Age
+Jubilee / Jubilation L,Jubilee / Jubilation L,Female,25s,X-Men,Hero,Asian,1990s,1995,Modern Age
+Strong Guy / Guido Car,Strong Guy / Guido Car,Male,30s,X-Factor,Hero,White,1990s,1995,Modern Age
+Spiral,Spiral,Female,Unknown,,Villain,Unknown,1980s,1985,Bronze Age
+Banshee / Sean Cassidy,Banshee / Sean Cassidy,Male,40s,X-Men,Hero,White,1960s,1965,Silver Age
+Legion Ii / David Hall,Legion Ii / David Hall,Male,30s,X-Men,Neutral,White,1980s,1985,Bronze Age
+Havok / Alex Summers,Havok / Alex Summers,Male,30s,X-Men,Hero,White,1960s,1965,Silver Age
+Longshot,Longshot,Male,Unknown,X-Men,Hero,Unknown,1980s,1985,Bronze Age
+Forge,Forge,Male,35s,X-Men,Hero,Native America,1980s,1985,Bronze Age
+Sabretooth / Victor Cr,Sabretooth / Victor Cr,Male,100+,Brotherhood of Evil Mutants,Villain,White,1970s,1975,Bronze Age
+"Maddicks, Arthur Art","Maddicks, Arthur Art",Male,18s,X-Men,Hero,White,1980s,1985,Bronze Age
+Warlock Iii,Warlock Iii,Male,Unknown,New Mutants ,Hero,Unknown,1980s,1985,Bronze Age
+Rictor / Julio Esteban,Rictor / Julio Esteban,Male,25s,X-Men,Hero,Latina,1990s,1995,Modern Age
+Sunspot / Roberto Daco,Sunspot / Roberto Daco,Male,25s,New Mutants; X-Force,Hero,Latina,1980s,1985,Bronze Age
+Firefist / Rusty Colli,Firefist / Rusty Colli,Male,25s,New Mutants,Hero,White,1990s,1995,Modern Age
+Bishop  / ,Bishop  / ,Male,30s,X-Men,Hero,Black,1990s,1995,Modern Age
+Daytripper / Amanda Se,Daytripper / Amanda Se,Female,30s,X-Men,Hero,White,1980s,1985,Bronze Age
+Wild Child / Kyle Gibn,Wild Child / Kyle Gibn,Male,30s,X-Men,Villain,White,1980s,1985,Bronze Age
+Thunderbird Ii / James,Thunderbird Ii / James,Male,25s,X-Men,Hero,Native America,1970s,1975,Bronze Age
+Sauron / Dr. Karl Lyko,Sauron / Dr. Karl Lyko,Male,40s,X-Men villains,Villain,White,1970s,1975,Bronze Age
+Siryn / Theresa Rourke,Siryn / Theresa Rourke,Female,25s,X-Force,Hero,White,1990s,1995,Modern Age
+Shatterstar Ii / Gavee,Shatterstar Ii / Gavee,Male,Unknown,X-Force,Hero,Unknown,1990s,1995,Modern Age
+Marrow / Sarah,Marrow / Sarah,Female,25s,X-Men,Villain,White,1990s,1995,Modern Age
+Feral / Maria Callasan,Feral / Maria Callasan,Female,25s,X-Force,Villain,White,1990s,1995,Modern Age
+Callisto,Callisto,Female,35s,Morlocks,Neutral,Unknown,1980s,1985,Bronze Age
+Mr. Sinister / Nathan,Mr. Sinister / Nathan,Male,180s,"Marauders, Hellfire Club",villain,White,1987,1987,Modern Age
+Raza Longknife,Raza Longknife,Male,45s,Starjammers,Anti-Hero,Unknown,1977,1977,Bronze Age
+Spider-woman / Jessica,Spider-woman / Jessica,Female,35s,"Avengers, S.W.O.R.D.",hero,White,1977,1977,Bronze Age
+Cypher / Doug Ramsey,Cypher / Doug Ramsey,male,25s,"X-Men, New Mutants",hero,White,1984,1984,Bronze Age
+Deathbird [shi'ar],Deathbird [shi'ar],Female,1000,Shi'ar Imperial Family,villain,Unknown,1976,1976,Bronze Age
+"Hudson, Heather","Hudson, Heather",Female,35s,Alpha Flight,hero,White,1983,1983,Bronze Age
+Stryfe,Stryfe,Male,30s,Mutant Liberation Front,villain,White,1990,1990,Modern Age
+Iron Man Doppelgange,Iron Man Doppelgange,Male,Not in MCU,Doppelganger Army (Infinity War),villain,Unknown,1992,1992,Modern Age
+Puck / Eugene Milton J,Puck / Eugene Milton J,Male,150s,Alpha Flight,hero,White,1983,1983,Bronze Age
+Silhouette,Silhouette,Female,25s,New Warriors,hero,Black,1993,1993,Modern Age
+"Cortez, Fabian","Cortez, Fabian",Male,35s,Acolytes,villain,White,1991,1991,Modern Age
+Black King / Sebastian,Black King / Sebastian,Male,50s,Hellfire Club,villain,White,1980,1980,Bronze Age
+Magik / Illyana Rasput,Magik / Illyana Rasput,Female,25s,"X-Men, New Mutants",hero,White,1975,1975,Bronze Age
+Zabu,Zabu,xiongxing,50s,Ally of Ka-Zar,hero,Unknown,1965,1965,Silver Age
+Domino Iii / Beatrice / ,Domino Iii / Beatrice / ,Female,30s,X-Force,Anti-Hero,White,1991,1991,Modern Age
+Caliban / ,Caliban / ,Male,40s,"Morlocks, X-Men",neutral,White,1981,1981,Bronze Age
+Apocalypse / En Sabah,Apocalypse / En Sabah,Male,5000s,Apocalypse's Horsemen,villain,Egyptian,1986,1986,Modern Age
+"Hunter, Stevie","Hunter, Stevie",Female,45s,Xavier Institute,hero,White,1980,1980,Bronze Age
+Corsair,Corsair,Male,60s,Starjammers,hero,White,1969,1969,Silver Age
+Ch'od,Ch'od,Male,1000,Starjammers,hero,Unknown,1977,1977,Bronze Age
+Mam'selle Hepzibah,Mam'selle Hepzibah,Female,1000,Starjammers,hero,Unknown,1977,1977,Bronze Age
+Zero,Zero,Male,20s,Generation X,neutral,Unknown,1995,1995,Modern Age
+X-man / Nathan Grey,X-man / Nathan Grey,Male,25s,X-Men,hero,White,1995,1995,Modern Age
+Karma / Xi'an Coy Manh,Karma / Xi'an Coy Manh,Female,35s,New Mutants,hero,Asian,1980,1980,Bronze Age
+Mr. Fantastic Doppel,Mr. Fantastic Doppel,Male,Not in MCU,Doppelganger Army (Infinity War),villain,Unknown,1989,1989,Modern Age
+Beyonder,Beyonder,Male,Not in MCU,Cosmic Entity,neutral,Unknown,1984,1984,Bronze Age
+Multiple Man / James A,Multiple Man / James A,Male,30s,X-Factor,hero,White,1985,1985,Bronze Age
+Colossus Ii Doppelga,Colossus Ii Doppelga,Male,Not in MCU,Doppelganger Army (Infinity War),villain,Unknown,1989,1989,Modern Age
+Scanner Ii,Scanner Ii,Female,25s,Acolytes,hero,White,1994,1994,Modern Age
+Ka-zar / Kevin Plunder,Ka-zar / Kevin Plunder,Male,35s,"Ally of X-Men, Avengers",hero,White,1965,1965,Silver Age
+White Queen / Emma Fro,White Queen / Emma Fro,Female,40s,"X-Men, Hellfire Club",hero,White,1980,1980,Bronze Age
+Magma / Amara Aquilla / ,Magma / Amara Aquilla / ,Female,25s,New Mutants,hero,White,1983,1983,Bronze Age
+Thanos Doppelganger,Thanos Doppelganger,Male,Not in MCU ,Doppelganger Army (Infinity War),villain,Unknown,1989,1989,Modern Age
+Magus,Magus,Male,1000,Universal Church of Truth,villain,Unknown,1975,1975,Bronze Age
+"Knight, Misty","Knight, Misty",Female,35s,Heroes for Hire,hero,Black,1975,1975,Bronze Age
+"Wing, Colleen","Wing, Colleen",Female,35s,Heroes for Hire,hero,Asian,1976,1976,Bronze Age
+Puppet Master / Philli,Puppet Master / Philli,Male,60s,Enemy of Fantastic Four,villain,White,1941,1941,before 1961
+Maximus [inhuman],Maximus [inhuman],Male,100+ (Enhanced),Inhuman Royal Family,villain,White,1965,1965,Silver Age
+Punisher Ii / Frank Ca,Punisher Ii / Frank Ca,Male,40s,Independent Vigilante,Anti-Hero,White,1974,1974,Bronze Age
+Zeus,Zeus,Male,数千岁,Olympian Gods,neutral,Unknown,1949,1949,before 1961
+Box Iv / Madison Jeffr,Box Iv / Madison Jeffr,Male,35s,Alpha Flight,hero,White,1984,1984,Bronze Age
+Thena,Thena,Female,20000+,Eternals,hero,Unknown,1976,1976,Bronze Age
+Black Cat / Felicia Ha,Black Cat / Felicia Ha,Female,28s,Independent Anti-Hero,Anti-Hero,White,1979,1979,Bronze Age
+Gee / Alex Power,Gee / Alex Power,Male,20s,Power Pack,hero,White,1984,1984,Bronze Age
+Spider-man Clone / Ben,Spider-man Clone / Ben,Male,25s,Scarlet Spider,hero,White,1975,1975,Bronze Age
+Ulik,Ulik,Male,1000+,Enemy of Asgard,villain,Unknown,1967,1967,Silver Age
+Citizen V Ii / Helmut,Citizen V Ii / Helmut,Male,45s,Masters of Evil,villain,White,1973,1973,Bronze Age
+High Evolutionary / He,High Evolutionary / He,Male,200+,Independent Scientist,neutral,White,1966,1966,Silver Age
+Hobgoblin V / Jason Ph,Hobgoblin V / Jason Ph,Male,40s,Enemy of Spider-Man,villain,White,1981,1981,Bronze Age
+Ghost Rider Iii / Dan,Ghost Rider Iii / Dan,Male,30s,Midnight Sons,hero,White,1990,1990,Modern Age
+"Cushing, Kate","Cushing, Kate",Female,35s,Daily Bugle Staff,neutral,White,1990,1990,Modern Age
+"Katzenberg, Nick","Katzenberg, Nick",Male,35s,Daily Bugle Staff,neutral,White,1990,1990,Modern Age
+Vizier,Vizier,Male,1000+,Ally of Loki,villain,Unknown,1967,1967,Silver Age
+Tombstone / Lonnie Tho,Tombstone / Lonnie Tho,Male,45s,Crime Syndicate,villain,Black,1988,1988,Modern Age
+"Mercado, Joy","Mercado, Joy",Female,25s,Daily Bugle Staff,neutral,hispanic,1994,1994,Modern Age
+Hammerhead,Hammerhead,Male,40s,Crime Syndicate,villain,White,1972,1972,Bronze Age
+Arranger / ,Arranger / ,Male,40s,Kingpin's Organization,villain,White,1987,1987,Modern Age
+"Osborn, Harry","Osborn, Harry",Male,28s,Green Goblin,Anti-Hero,White,1965,1965,Silver Age
+Cobra / Klaus Vorhees,Cobra / Klaus Vorhees,Male,50s,Serpent Society,villain,White,1963,1963,Silver Age
+"Leeds, Ned","Leeds, Ned",Male,28s,Daily Bugle Staff,neutral,White,1964,1964,Silver Age
+"Watson, Anna","Watson, Anna",Female,60s,Civilian,neutral,White,1965,1965,Silver Age
+"Urich, Ben","Urich, Ben",Male,50s,Daily Bugle Staff,neutral,White,1976,1976,Bronze Age
+"Robertson, Randy","Robertson, Randy",Male,30s,Daily Bugle Staff,neutral,Black,1987,1987,Modern Age
+"Page, Karen","Page, Karen",Female,30s,Civilian,neutral,White,1964,1964,Silver Age
+"Grant, Gloria Glory","Grant, Gloria Glory",Female,30s,Daily Bugle Staff,neutral,Black,1974,1974,Bronze Age
+"Lubenski, Nate","Lubenski, Nate",Male,50s,NYPD,neutral,White,1976,1976,Bronze Age
+Ikaris / Ike Harris [e,Ikaris / Ike Harris [e,Male,20000+,Eternals,hero,Unknown,1976,1976,Bronze Age
+"Rosenthal, Bernie","Rosenthal, Bernie",Male,35s,Civilian,neutral,White,1981,1981,Bronze Age
+Gladiator Ii,Gladiator Ii,Male,30s,Shi'ar Imperial Guard,hero,Unknown,1992,1992,Modern Age
+Beta Ray Bill,Beta Ray Bill,Male,1000+ ,Ally of Thor,hero,Unknown,1983,1983,Bronze Age
+"Bridge, George Washi","Bridge, George Washi",Male,40s,S.H.I.E.L.D.,hero,Black,1988,1988,Modern Age
+Diamond Lil / Lillian,Diamond Lil / Lillian,Female,35s,Alpha Flight,hero,White,1983,1983,Bronze Age
+Asp Ii / Cleo,Asp Ii / Cleo,Female,30s,Serpent Society,villain,Egyptian,1985,1985,Bronze Age
+Black Mamba / Tanya Se,Black Mamba / Tanya Se,Female,30s,Serpent Society,villain,Black,1985,1985,Bronze Age
+Meggan,Meggan,Female,25s,Excalibur,hero,Unknown,1983,1983,Bronze Age
+"Austin, Susan","Austin, Susan",Female,30s,Daily Bugle Staff,neutral,White,1990,1990,Modern Age
+Diamondback Ii / Rache,Diamondback Ii / Rache,Female,30s,Serpent Society,villain,White,1986,1986,Modern Age
+Makkari / Mike Khary / I,Makkari / Mike Khary / I,Female,20000+,Eternals,hero,Unknown,1976,1976,Bronze Age
+"Hodge, Cameron","Hodge, Cameron",Male,40s,Anti-Mutant Extremist,villain,White,1986,1986,Modern Age
+Skin / Angelo Espinosa,Skin / Angelo Espinosa,Male,20s,Generation X,hero,hispanic,1994,1994,Modern Age
+Husk / Paige Guthrie,Husk / Paige Guthrie,Female,25s,Generation X,hero,White,1994,1994,Modern Age
+Deadpool / Jack / Wade W,Deadpool / Jack / Wade W,Male,35s,"X-Force, Mercenary",Anti-Hero,White,1991,1991,Modern Age
